@@ -1,0 +1,13 @@
+h1 {
+color: cadetblue;
+}
+.op {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 2%;
+    margin-top: 2px;
+    margin: 12px;
+    padding: 10px;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
